@@ -10,6 +10,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 13.
@@ -93,9 +94,9 @@ group: НПИбд-02-20
 
 Командный файл 1.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(2).png)
 
 
 
@@ -103,39 +104,39 @@ https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(2).p
 
 Файл son.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/son.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/son.png)
 
 Испытание:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir1%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir1%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir1%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir1%20(2).png)
 
 Командный файл 2.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p2.png)
 
 Испытание:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/t2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/t2.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(1).png)
 
 Если данная команда отсутствует в каталоге man1, то выводится
 соответствующая информация.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(2).png)
 
 Командный файл 3.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p3.png)
 
 Испытание:
 
 Командный файл отлично сработал -- случайные строки указанного размера
 сгенерированы и выведены на экран.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir3.png)
 
 # Вывод:
 

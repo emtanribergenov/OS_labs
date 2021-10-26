@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 12.
@@ -90,42 +91,42 @@ group: НПИбд-02-20
 
 Командный файл 1.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c1%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c1%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c1%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c1%20(2).png)
 
 Создал два файла: файл-источник и файл, который будет содержать
 вывод.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/1.png)
 
 Источник заполнил отрывком текста из файла лабораторной работы.
 
 Файл-источник.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/2.png)
 
 Наделил файл p1 правом на выполнение и начал испытания.
 
 Тест 1.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/t1%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/t1%20(1).png)
 
 Вывод 1.
 
- https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r1%20(1).png
+ ![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r1%20(1).png)
 
 Тест 2.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/t1%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/t1%20(2).png)
 
 Вывод 2.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r1%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r1%20(2).png)
 
 Тест 3.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/t1%20(3).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/t1%20(3).png)
 
 > Б)
 
@@ -133,19 +134,19 @@ https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/t1%20(3).p
 
 Программа на си.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c2%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c2%20(1).png)
 
 Создал файл p2 и написал там скрипт.
 
 Командный файл 2.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c2%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c2%20(2).png)
 
 Испытание:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r2%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r2%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r2%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r2%20(2).png)
 
 По какой-то неизвестной мне причине отрицательное число выдалось в \$?
 не правильно.
@@ -156,11 +157,11 @@ https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r2%20(2).p
 
 Командный файл 3.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c3.png)
 
 Испытание:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r3.png)
 
 При последнем запуске командного файла с заданным количеством файлов 7,
 как и нужно было, произошло следующее: все существовавшие файлы от 1 до
@@ -173,24 +174,24 @@ https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r3.png
 
 Командный файл 4.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/c4.png)
 
 Для испытания создал директорию provdir, которую заполнил 9-ю файлами,
 созданными при помощи предыдущего командного файла.
 
 Директория provdir.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/3.png)
 
 Испытание:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r4%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r4%20(1).png)
 
 Как видно, появился архив. Просмотрю его содержимое командой less.
 
 Содержимое архива.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r4%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/12/screenshots/r4%20(2).png)
 
 # Вывод:
 

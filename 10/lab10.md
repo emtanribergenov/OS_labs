@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 10.
@@ -71,47 +72,47 @@ group: НПИбд-02-20
 Выполняю все задания.
 Результаты:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(2).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(3).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(3).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(4).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(4).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(5).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(5).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(6).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(6).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(7).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(7).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(8).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(8).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(9).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(9).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(10).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(10).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(11).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(11).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(12).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(12).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(13).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(13).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(14).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(14).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(15).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(15).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(16).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(16).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(17).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(17).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(18).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(18).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(19).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(19).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(20).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(20).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(21).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(21).png)
 
 # Вывод:
 

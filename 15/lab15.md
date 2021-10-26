@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 15.
@@ -82,7 +83,7 @@ FIFO (First In First Out) (первым записан — первым проч
 
 Файл server.c
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/server.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/server.png)
 
 Приём нескольих клиентов обеспечивается через переменную t.
 
@@ -93,13 +94,13 @@ https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/server.png
 
 Результат.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rser.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rser.png)
 
 Второй раз клиент был запущен через 6 секунд.
 
 Файл client.c
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/client.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/client.png)
 
 Получаем текущее время и записываем его в файл.
 
@@ -107,27 +108,27 @@ https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/client.png
 
 Результат.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rcli.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rcli.png)
 
 Клиент закрывается не сразу
 
 Результат работы скрипта.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rs2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rs2.png)
 
 Скрипт 3
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/s3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/s3.png)
 
 Результат.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rs3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rs3.png)
 
 Если закрыть сервер нештатно, то временный файл не будет удален. Новый
 сервер не сможет создать канал, так как он уже будет
 существовать.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/last.png# 
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/last.png)
 
 # Вывод:
 

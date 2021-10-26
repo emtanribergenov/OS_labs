@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 9.
@@ -85,32 +86,32 @@ group: НПИбд-02-20
 Создаю каталог \~/work/os/lab06. Перехожу в него, создаю и открываю файл
 hello.sh при помощи vi.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/1.png)
 
 Нажал клавишу i, после чего написал нужный текст и перешёл в командный
 режим, нажав Esc. Ввёл :wq (w -- сохранение, q -- выход). Нажал Enter.
-https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/2.png)
 
 Сделал файл исполняемым при помощи
-https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/3.png)
 
 Вызвал файл на редактирование vi. В нём, нажав на клавишу i или insert,
 перешёл в режим вставки и заменил во второй строке слово HELL на HELLO,
 а в 4-й -- LOCAL на local. После последней строки вставил строку echo
 \$HELLO.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/4.png)
 
 Удалил последнюю
 строку.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/5.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/5.png)
 
 Перешёл в командный режим, нажал u для отмены последнего действия. Далее
 введя : , набрал wq, что означает сохранение и
 выход.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/6.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/9/screenshots/6.png)
 
 # Вывод:
 

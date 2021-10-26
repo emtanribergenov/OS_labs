@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 11.
@@ -82,57 +83,57 @@ group: НПИбд-02-20
 помощью vi. Написал
 скрипт.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/1.png)
 
 Командный файл 1.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/2.png)
 
 Далее сделал файл p1 исполняемым. Проверил права. Запустил скрипт.
 Проверил результат работы скрипта. Видно, что скрипт написан верно: в
 директории backup появился
 архив.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/3.png)
 
 Просмотрел содержимое архива с помощью графического
 интерфейса.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/4.png)
 
 Открыл файл p2 в vi. Прописал скрипт.
 
 Командный файл 2.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/5.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/5.png)
 
 Сделал файл p2 исполняемым при помощи chmod. Запустил скрипт с
 аргументами \>10 штук. Результат работы
 скрипта.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/6.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/6.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/7.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/7.png)
 
 Командный файл 3.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/8.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/8.png)
 
 Сделал исполняемым и запустил
 его.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/9.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/9.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/10.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/10.png)
 
 Командный файл 4.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/11.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/11.png)
 
 Испытал его при помощи каталога test. Результаты абсолютно
 верные.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/12.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/11/screenshots/12.png)
 
 # Вывод:
 

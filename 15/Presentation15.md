@@ -18,6 +18,7 @@ aspectratio: 43
 section-titles: true
 ---
 
+
 # Цели
 
 - Приобретение практических навыков работы с именованными каналами.
@@ -34,34 +35,34 @@ section-titles: true
 
 # Слайд 1
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/server.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/server.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rser.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rser.png)
 
 ---
 
 # Слайд 2
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/client.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/client.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rcli.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rcli.png)
 
 ---
 
 # Слайд 3
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rs2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rs2.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/s3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/s3.png)
 
 
 ---
 
 # Слайд 4
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rs3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/rs3.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/last.png# 
+![](https://github.com/emtanribergenov/OS_labs/blob/master/15/screenshots/last.png)
 
 ------
 

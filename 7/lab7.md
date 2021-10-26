@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 7.
@@ -83,15 +84,15 @@ group: НПИбд-02-20
 результат в текстовом редакторе. Добавил названия всех файлов в домашнем
 каталоге в file.txt. Проверил результат.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/1.png)
 
 Записал все имена файлов с расширением .conf из файла file.txt в файл
 conf.txt. Вывел на экран все имена файлов, находящихся в домашнем
 каталоге, начинающихся на букву c.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/2.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/3.png)
 
 Можно также записать все эти имена (при помощи команды find) в файл,
 после чего вывести на экран содержимое этого файла, используя команду
@@ -100,7 +101,7 @@ cat.
 Попробовал вывести все имена файлов начинающихся на c при помощи grep.
 Почему-то вывелась всего одна строка.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/4.png)
 
 Вывод всех имён файлов в домашнем каталоге, начинающихся на h.
 Постранично я вывел с помощью команды less. Записал все имена файлов,
@@ -116,18 +117,18 @@ jobs.
 Далее просмотрел справку команды kill и применил её, чем завершил
 процесс gedit.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/5.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/5.png)
 
 Просмотрел справки команд df и du. Воспользовался этими командами.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/6.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/6.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/7.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/7.png)
 
 Изучил справку команды find и вывел с её помощью на экран все директории
 домашней директории.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/8.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/7/screenshots/8.png)
 
 # Вывод:
 

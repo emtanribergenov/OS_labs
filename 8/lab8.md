@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 8.
@@ -76,61 +77,61 @@ group: НПИбд-02-20
 
 Создал файл text.txt и открыл его в редакторе mcedit.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/2.png)
 
 Вставил фрагмент текста, взятый из Интернета в редактор.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/3.png)
 
 Удалил строку, нажав Ctrl + y. Строка удалилась (где был расположен
 курсор).
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/4.png)
 
 Выделяю (F3) и копирую выделенную строку в новую строку под выделенной
 (F5)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/5.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/5.png)
 
 Выделил строку и переместил её в самый конец.
 
 F3 -- выделение, F6 -
 перемещение
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/6.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/6.png)
 
 Сохранил файл, нажав F2. Отменил последнее действие, нажав Ctrl + u.
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/7.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/7.png)
 
 Перешёл в конец файла, нажав End → Ctrl +End. Написал «НЕКОТОРЫЙ ТЕКСТ»
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/8.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/8.png)
 
 Перешёл в начало файла, нажав Home → Ctrl + Home. Написал «НЕКОТОРЫЙ
 ТЕКСТ 2» 
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/9.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/9.png)
 
 При нажатии F10 для выхода открывается меню терминала (конфликт
 комбинаций клавиш). Но даже после отключения в настройках комбинаций
 клавиш ситуация не изменилась. Не стал заморачиваться и вышел при помощи
 мыши, нажав (курсором) на кнопку выхода в mcedit.
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/10.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/10.png)
 
 Выход из редактора.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/11.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/11.png)
 
 Открыл файл с исходным кодом на C с помощью mcedit cod.c
 
 Видим включённую подсветку синтаксиса.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/12.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/12.png)
 
 Отключил подсветку синтаксиса при помощи комбинации клавиш Ctrl + s.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/13.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/8/screenshots/13.png)
 
 # Вывод:
 

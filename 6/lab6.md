@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 6.
@@ -112,21 +113,21 @@ group: НПИбд-02-20
 
 # Ход работы:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/2.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/3.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/4.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/5.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/5.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/6.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/6.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/7.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/7.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/8.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/8.png)
 
 
 
@@ -134,11 +135,11 @@ https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/8.png
 подробной информации по файлам и каталогам посредством команды ls --l.
 Всем файлам были правильно присвоены указанные в л.р. права.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/9.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/9.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/10.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/10.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/11.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/11.png)
 
 
 
@@ -149,7 +150,7 @@ https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/11.png
 перемещение в данный каталог
 невозможно.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/12.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/6/screenshots/12.png)
 
 Из справок по данным командам стало известно:
 

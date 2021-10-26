@@ -9,6 +9,7 @@ group: НПИбд-02-20
 
 
 
+
 # **Отчёт**
 
 ## **о выполнении лабораторной работы № 2.**
@@ -37,19 +38,19 @@ group: НПИбд-02-20
 
 # **Ход работы:**
 
-https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/2.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/3.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/4.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/5.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/5.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/6.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/6.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/7.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/2/screenshots/7.png)
 
 
 

@@ -18,6 +18,7 @@ aspectratio: 43
 section-titles: true
 ---
 
+
 # Цели
 
 - Изучить основы программирования в оболочке ОС UNIX. 
@@ -36,34 +37,34 @@ section-titles: true
 
 # Слайд 1
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p1%20(2).png)
 
 ---
 
 # Слайд 2
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/son.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/son.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir1%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir1%20(1).png)
 
 ---
 
 # Слайд 3
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir1%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir1%20(2).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p2.png)
 
 
 ---
 
 # Слайд 4
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/t2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/t2.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(1).png)
 
 
 
@@ -71,11 +72,10 @@ https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(1)
 
 # Слайд 5
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir2%20(2).png)
 
-Командный файл 3.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p3.png)
 
 
 
@@ -83,7 +83,7 @@ https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/p3.png
 
 # Слайд 6
 
-https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/13/screenshots/tir3.png)
 
 ------
 

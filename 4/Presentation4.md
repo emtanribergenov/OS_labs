@@ -18,6 +18,7 @@ aspectratio: 43
 section-titles: true
 ---
 
+
 # Цели
 
 - Познакомиться с операционной системой Linux.
@@ -37,42 +38,42 @@ section-titles: true
 
 # Слайд 1
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/2.png)
 
 ---
 
 # Слайд 2
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/3.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/4.png)
 
 ---
 
 # Слайд 3
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/gnome.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/gnome.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Xfce.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Xfce.png)
 
 
 ---
 
 # Слайд 4
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Openbox.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Openbox.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/ffb.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/ffb.png)
 
 ------
 
 # Слайд 5
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/g.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/g.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/t.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/t.png)
 
 ------
 

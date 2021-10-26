@@ -18,6 +18,7 @@ aspectratio: 43
 section-titles: true
 ---
 
+
 # Цели
 
 - Познакомиться с операционной системой Linux. 
@@ -36,34 +37,34 @@ section-titles: true
 
 # Слайд 1
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(2).png)
 
 ---
 
 # Слайд 2
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(3).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(3).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(4).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(4).png)
 
 ---
 
 # Слайд 3
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(5).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(5).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(6).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(6).png)
 
 
 ---
 
 # Слайд 4
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(7).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(7).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(8).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(8).png)
 
 
 
@@ -71,9 +72,9 @@ https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(8).p
 
 # Слайд 5
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(9).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(9).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(10).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(10).png)
 
 
 
@@ -81,47 +82,47 @@ https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(10).
 
 # Слайд 6
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(11).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(11).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(12).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(12).png)
 
 ------
 
 # Слайд 7
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(13).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(13).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(14).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(14).png)
 
 ------
 
 # Слайд 8
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(15).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(15).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(16).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(16).png)
 
 ------
 
 # Слайд 9
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(17).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(17).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(18).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(18).png)
 
 ------
 
 # Слайд 10
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(19).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(19).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(20).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(20).png)
 
 ------
 
 # Слайд 11
 
-https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(21).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/10/screenshots/sh%20(21).png)
 
 ------
 

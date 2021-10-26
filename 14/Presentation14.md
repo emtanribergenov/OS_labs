@@ -18,6 +18,7 @@ aspectratio: 43
 section-titles: true
 ---
 
+
 # Цели
 
 - Приобрести простейшие навыки разработки, анализа, тестирования и
@@ -36,64 +37,64 @@ section-titles: true
 
 # Слайд 1
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/cdf.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/cdf.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(1).png)
 
 ---
 
 # Слайд 2
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(2).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(3).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(3).png)
 
 ---
 
 # Слайд 3
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/ch.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/ch.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/m.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/m.png)
 
 
 ---
 
 # Слайд 4
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/cmpl.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/cmpl.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/mf.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/mf.png)
 
 ------
 
 # Слайд 5
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/gdbr%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/gdbr%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/gbdr%205.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/gbdr%205.png)
 
 ------
 
 # Слайд 6
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l2.png)
 
 ------
 
 # Слайд 7
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l3.png)
 
-!https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/bp.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/bp.png)
 
 ------
 
 # Слайд 8
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/bd.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/bd.png)
 
 ------
 

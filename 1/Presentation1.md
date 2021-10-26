@@ -18,6 +18,8 @@ aspectratio: 43
 section-titles: true
 ---
 
+
+
 # Цели
 
 - Приобретение практических навыков установки операционной системы на виртуальную машину, настройки минимально необходимых для дальнейшей работы сервисов.
@@ -35,33 +37,33 @@ section-titles: true
 
 # Слайд 1
 
-https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/2.png)
 
 ---
 
 # Слайд 2
 
-https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/3.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/4.png)
 
 ---
 
 # Слайд 3
 
-https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/5.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/5.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/6.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/6.png)
 
 
 
 # **Слайд** 4
 
-https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/7.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/7.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/8.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/1/screenshots/8.png)
 
 
 

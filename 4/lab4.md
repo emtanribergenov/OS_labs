@@ -71,11 +71,11 @@ group: НПИбд-02-20
 
 # Ход работы:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/1.png)
 
 Рис.1. Текстовая консоль
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/2.png)
 
 Рис. 2. Вход в систему посредством текстовой консоли.
 
@@ -91,24 +91,24 @@ https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/2.png
 комбинацией клавиш Ctrl +
 d
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/3.png)
 
 Рис. 3. Завершение консольного сеанса.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/4.png)
 
 Рис. 4. Переключение на графический
 интерфейс.
 
 Использовал комбинацию клавиш Ctrl + Alt + F7.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/gnome.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/gnome.png)
 
 Рис. 5. Графический менеджер GNOME.
 
 По умолчанию в системе CentOS 8 установлен графический менеджер GNOME.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Xfce.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Xfce.png)
 
 Рис. 6. Графический менеджер Xfce.
 
@@ -117,7 +117,7 @@ https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Xfce.png
 Графический менеджер рабочего стола KDE в моей системе
 отсутствует.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Openbox.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/Openbox.png)
 
 Рис. 7. Оконный менеджер Openbox.
 
@@ -128,15 +128,15 @@ Openbox, как я понял, не отображает иконок прило
 
 В моей системе CentOS 8 установлены графические менеджеры GNOME и Xfce.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/ffb.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/ffb.png)
 
 Рис. 8. Браузер Firefox.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/g.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/g.png)
 
 Рис. 9. Тектовый редактор Gedit.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/t.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/4/screenshots/t.png)
 
 Рис. 10. Эмулятор консоли (терминал).
 

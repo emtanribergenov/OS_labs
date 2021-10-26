@@ -10,6 +10,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 14.
@@ -89,60 +90,60 @@ C, является утилита splint. Эта утилита анализи�
 
 Создаю нужный каталог и файлы в нём.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/cdf.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/cdf.png)
 
 Файл calculate.c
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(1).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(2).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(2).png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(3).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/calc%20(3).png)
 
 Файл calculate.h
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/ch.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/ch.png)
 
 Файл main.c
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/m.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/m.png)
 
 Компиляция.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/cmpl.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/cmpl.png)
 
 Файл Makefile
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/mf.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/mf.png)
 
 Запуск отладчика gdb
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/gdbr%20(1).png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/gdbr%20(1).png)
 
 Отладка началась, и мне удалось запустить программу с помощью
 run.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/gbdr%205.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/gbdr%205.png)
 
 Команда list.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l2.png)
 
 Установка точки останова на 21
 строке
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/l3.png)
 
 Инфа о точках останова
 
-!https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/bp.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/bp.png)
 
 Запуск командой run . Программа остановилась на 21 строке. Ввёл команды
 display и print Numeral. Вывел инфу о ТО и удалил имеющуюся.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/bd.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/14/screenshots/bd.png)
 
 
 

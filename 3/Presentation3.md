@@ -18,6 +18,7 @@ aspectratio: 43
 section-titles: true
 ---
 
+
 # Цели
 
 - Научиться оформлять отчёты с помощью легковесного языка разметки
@@ -35,23 +36,23 @@ section-titles: true
 
 # Слайд 1
 
-https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/2.png)
 
 ---
 
 # Слайд 2
 
 
-https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/3.png)
 
 ---
 
 # Слайд 3
 
 
-https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/4.png)
 
 
 ---

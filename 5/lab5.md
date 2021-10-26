@@ -12,6 +12,7 @@ group: НПИбд-02-20
 
 
 
+
 > Отчёт
 >
 > о выполнении лабораторной работы № 5.
@@ -90,17 +91,17 @@ pwd, mkdir, rmdir, rm. Поясните основные опции этих к�
 на экран содержимое этого каталога со всеми скрытыми каталогами и
 файлами при помощи ls -a
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/1.png)
 
 Вывел содержимое этого же каталога с расширенной информацией ls --l.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/2.png)
 
 Вывел содержимое в обратном порядке с подробной информацией,
 отсортировав по размеру, отображая размер в удобном для чтения формате.
 ls --rlSh
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/3.png)
 
 Проверил подкаталог spool в var. Вывел его содержимое с подробной
 информацией. Перешёл в дом. каталог и вывел содержание с подробной инфой
@@ -108,44 +109,44 @@ https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/3.png
 являюсь я,
 emtanribergenov
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/4.png)
 
 Создал каталог newdir , а в нём подкаталог morefun. Проверил.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/5.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/5.png)
 
 Создал сразу три каталога одной командой и удалил также одной командой.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/6.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/6.png)
 
 Попытался удалить каталог при помощи rm без опций. Не удалось. Удалил
 каталог morefun. Получил справку по команде ls. Для вывода содержимого
 не только указанного каталога, но и всех входящих в него подкаталогов,
 используется опция --R. Проверил.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/7.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/7.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/8.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/8.png)
 
 С помощью команды man определил опцию команды ls, позволяющий
 отсортировать по времени последнего изменения выводимый список
 содержимого каталога с развёрнутым описанием файлов. Это ls --lt.
 Испытал.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/9.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/9.png)
 
 Получил справки по командам cd, pwd, mkdir, rmdir, rm. Основные опции я
 описал в скринкасте.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/10.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/10.png)
 
 Воспользовавшись командой history, модифицировал и запустил несколько
 использованных ранее
 команд.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/11.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/11.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/12.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/5/screenshots/12.png)
 
 # Вывод:
 

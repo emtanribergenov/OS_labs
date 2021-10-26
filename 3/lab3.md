@@ -44,18 +44,18 @@ group: НПИбд-02-20
     
     # Ход работы:
 
-https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/1.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/1.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/2.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/2.png)
 
-https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/3.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/3.png)
 
 
 
 При попытке конвертировать docx в pdf при помощи pandoc произошла
 ошибка, требующая установить дополнительный пакет.
 
-https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/4.png
+![](https://github.com/emtanribergenov/OS_labs/blob/master/3/screenshots/4.png)
 
 # Вывод:
 
